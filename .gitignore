@@ -1,0 +1,7 @@
+# folders
+node_modules
+logs
+
+# project readme's
+.UserStories.md
+.Resources.md
